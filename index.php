@@ -1,4 +1,4 @@
 <?php
-print(Prueba)
+echo(1)
 phpinfo();
 ?>
